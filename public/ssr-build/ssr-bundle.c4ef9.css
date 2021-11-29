@@ -1,0 +1,72 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	background: #FAFAFA;
+	font-family: 'Roboto', 'Helvetica Neue', arial, sans-serif;
+	font-weight: 400;
+	color: #444;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+#app {
+	height: 100%;
+}
+
+.divider {
+	width: 100%;
+	height: 1px;
+	background: #444;
+}
+
+input {
+	width: 100%;
+}
+
+.align-start {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-pack: start;
+	    justify-content: flex-start;
+	-ms-flex-align: center;
+	    align-items: center;
+}
+
+.align-end {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-pack: end;
+	    justify-content: flex-end;
+	-ms-flex-align: center;
+	    align-items: center;
+}
+
+.align-center {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-pack: center;
+	    justify-content: center;
+	-ms-flex-align: center;
+	    align-items: center;
+}
+section {
+	padding: 56px 0px;
+}
+
+.home__uRcqa {
+	padding: 0px 20px;
+	min-height: 100%;
+	width: 100%;
+}
+
+.container__AWLjd {
+	padding: 25px 0px;
+}
+
+/*# sourceMappingURL=ssr-bundle.c4ef9.css.map*/
